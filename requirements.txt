@@ -1,0 +1,13 @@
+certifi==2026.7.22
+charset-normalizer==3.5.1
+dnspython==2.8.0
+greenlet==3.5.5
+idna==3.19
+psycopg2-binary==2.9.12
+pymango==0.1.1
+pymongo==4.17.0
+python-dotenv==1.2.3
+requests==2.34.2
+SQLAlchemy==2.0.52
+typing_extensions==4.16.0
+urllib3==2.7.0
